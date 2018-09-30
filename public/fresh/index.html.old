@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel = "stylesheet" type = "text/css" href = "trebl.css"/> 
+    </head>
+    <body>
+ 
+        <h1>Top Rated Playlist</h1></a>
+        <br/>
+        <div class="button">
+        
+      <ul>
+  <li><a href="/rock.html">Rock</a></li>
+  <li><a href="/rap.html">Rap</a></li>
+  <li><a href="/electronic.html">Electronic</a></li>
+  <li><a href="/indie.html">Indie</a></li>
+<li><a href="/country.html">Country</a></li>          
+</ul>
+        </div>
+        <iframe src="https://open.spotify.com/embed/user/1263113471/playlist/2n3dR6ETyvVU7NoMNpyg9P" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+        
+          <div class="button">
+        
+              <li><a href="/submit.html"><h4>Submit</h4></a></li>
+        
+        
+</body>
+</html>
